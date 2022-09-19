@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.childMenu{
+  padding: 10px 10px 10px 10px;
+  display: inline-block;
+}
+.parentMenu, .parentMenu *{
+  text-align: center;
+}
+
+.localTimer{
+  background-color: aqua;
+}
+
+.timeGlobal{
+  background-color: aquamarine;
+}
